@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skn:home|Door43 (skn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skn|d43-skn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skn/archive/master.zip|d43-skn.zip]]
+
+**Recent Changes**
+{{changes>ns = skn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skn|Ethnologue data]]
+
